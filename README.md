@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaid1010&label=Profile%20views&color=0e75b6&style=flat" alt="junaid1010" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junaid1010" alt="junaid1010" /></a> </p>
-
-- 🌱 I’m currently learning **CSS, JavaScript**
-
 - 📫 How to reach me **junaidqureshi1010@gmail.com**
 
 - ⚡ Fun fact **It's never too late.**
