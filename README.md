@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaid1010&label=Profile%20views&color=0e75b6&style=flat" alt="junaid1010" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
