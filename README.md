@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaid1010&label=Profile%20views&color=0e75b6&style=flat" alt="junaid1010" /> </p>
 
-- 📫 How to reach me **junaidqureshi1010@gmail.com**
-
-- ⚡ Fun fact **It's never too late.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
