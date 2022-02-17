@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px">, I'm Junaid</h1>
+<h1 align="center">Hey :wave: I'm Junaid</h1>
 <h3 align="center">Just a hustler</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=junaid1010&label=Profile%20views&color=0e75b6&style=flat" alt="junaid1010" /> </p>
