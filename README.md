@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> I'm Junaid</h1>
+<h1 align="center">Hey <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="center"/> I'm Junaid</h1>
 <h3 align="center">Just a hustler</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=junaid1010&label=Profile%20views&color=0e75b6&style=flat" alt="junaid1010" /> </p>
